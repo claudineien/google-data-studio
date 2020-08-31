@@ -1,6 +1,11 @@
 <h1 align="center">DATA STUDIO</h1>
 
-<p>A V4 Company em Júlio 17 2020 publicou o vídeo <a href="https://www.youtube.com/watch?v=x3iCYa87qHE">MS Power BI vs Google Data Studio</a>, informando o seguinte :
+<p>Aqui aprenderemos mais sobre a Google Data Studio, mas tanto esta ferramenta quanto a MS Power BI se adequada a solução do cliente.<br>
+O segredo é 'Não advogado de ferramenta', e sim desenvolver a solução ao cliente.<br>
+A seguir algumas comparações :
+</p>
+
+<p>
 <ul>
     <li>Google Data Studio :
         <ul>
@@ -27,9 +32,6 @@
 </ul>
 </p>
 
-<p>Aqui aprenderemos mais sobre a Google Data Studio, mas tanto esta quanto a MS Power BI se adequada a solução do cliente.<br>
-O segredo é 'Não advogado de ferramenta', e sim desenvolver a solução ao cliente.
-</p>
 
 <br>
 <br>
