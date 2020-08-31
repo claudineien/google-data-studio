@@ -1,4 +1,14 @@
 <h1 align="center">GOOGLE DATA STUDIO</h1>
+<h2>Requisitos</h2>
+<p>
+    <ul>
+        <li>Boa conhexão com a internet</li>
+        <li>Conta de <a href="https://www.google.com/intl/pt-BR/gmail/about/">email da google - gmail</a> </li>
+    </ul>
+</p>
+
+<h3>
+Acessar o <a href="https://datastudio.google.com/navigation/reporting">Data Studio</a></h3>
 
 <p>Aqui aprenderemos sobre a Google Data Studio, por que o segredo é 'Não ser advogado de ferramenta', e sim desenvolver a solução adequada ao cliente.<br>
 A seguir algumas comparações entre Google Data Studio e MS Power BI :
