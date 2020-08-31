@@ -1,6 +1,6 @@
 <h1 align="center">GOOGLE DATA STUDIO</h1>
 
-<p>Aqui aprenderemos sobre a Google Data Studio, por que o segredo é 'Não advogado de ferramenta', e sim desenvolver a solução ao cliente.<br>
+<p>Aqui aprenderemos sobre a Google Data Studio, por que o segredo é 'Não ser advogado de ferramenta', e sim desenvolver a solução ao cliente.<br>
 A seguir algumas comparações entre Google Data Studio e MS Power BI :
 </p>
 
