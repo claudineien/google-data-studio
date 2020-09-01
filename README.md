@@ -2,17 +2,26 @@
 <h2>Requisitos</h2>
 <p>
     <ul>
-        <li>Boa conhexão com a internet</li>
+        <li>Boa conexão com a internet</li>
         <li>Conta de <a href="https://www.google.com/intl/pt-BR/gmail/about/">email da google - gmail</a> </li>
+        <li>Vontade de aprender para mudar para melhor a sua própria vida</a> </li>
     </ul>
 </p>
 
-<h3>
-Acessar o <a href="https://datastudio.google.com/navigation/reporting">Data Studio</a></h3>
+<h2>O que é ? Para Que Serve ? Como Utilizar ?</h2>
+<p>Google Data Studio (GDS) is a great, free data visualization tool.</p>
 
-<p>Aqui aprenderemos sobre a Google Data Studio, por que o segredo é 'Não ser advogado de ferramenta', e sim desenvolver a solução adequada ao cliente.<br>
-A seguir algumas comparações entre Google Data Studio e MS Power BI :
-</p>
+<p>It only allows you to create interactive panels and personalized and beautiful reports. It is not a business intelligence tool.</p>
+
+<p>Having a live data source also means you’re not limited in terms of what date range you can look at. Depending on how far back your data goes, you can use any date range that satisfies your needs.</p>
+
+<h3>
+Acesse o <a href="https://datastudio.google.com/navigation/reporting">Data Studio</a> </h3>
+
+
+<p>Não seja advogado de ferramenta, construa a solução adequada ao cliente.</p>
+
+<p>A seguir algumas comparações entre Google Data Studio e MS Power BI :</p>
 
 <p>
 <ul>
@@ -48,7 +57,8 @@ A seguir algumas comparações entre Google Data Studio e MS Power BI :
 <br>
 <h3>Fonte de estudo</h3>
     <p>
-        <a href="https://www.youtube.com/watch?v=x3iCYa87qHE">V4 Company</a><br>
-        <a href="https://rockcontent.com/br/blog/marketing-analytics/">Blog Rockcontent</a><br>
-        <a href="https://www.supersonic.ag/blog/dicas-de-marketing-digital/">Supersonic</a>
+        1 <a href="https://www.youtube.com/watch?v=x3iCYa87qHE">V4 Company</a><br>
+        2 <a href="https://rockcontent.com/br/blog/marketing-analytics/">Blog Rockcontent</a><br>
+        3 <a href="https://www.supersonic.ag/blog/dicas-de-marketing-digital/">Supersonic</a><br>
+        4 <a href="https://www.seerinteractive.com/blog/google-data-studio-whats-working-whats-missing/">Seer Interactive</a>
     </p>
