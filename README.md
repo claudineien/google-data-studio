@@ -1,3 +1,9 @@
+<h4><a href="blank_">[en]</a> | <a href="blank_">[pt-br]</a></h4>
+<h4>Objetivo : Conhecer um pouco de Google Data Studio<br>
+    Nivel Conhecimento : À quem interessar</br>
+    Tecnologia : Interactive Dashboards</br>
+</h4>
+<br>
 <h1 align="center">GOOGLE DATA STUDIO</h1>
 <h2>Requisitos</h2>
 <p>
